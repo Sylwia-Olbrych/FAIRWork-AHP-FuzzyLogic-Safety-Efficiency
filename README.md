@@ -9,7 +9,7 @@ Developers: [Zi Xuan(Melody) Tung](https://github.com/melody-tung), [Alexander N
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - tkinter library (usually included with Python)
 
 ## How to Use
