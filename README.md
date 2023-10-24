@@ -1,6 +1,6 @@
 # FAIRWork-AHP-and-FuzzyLogic
 
-Developers: [Zi Xuan(Melody) Tung]([https://github.com/](https://github.com/melody-tung)), [Alexander Nasuta](https://github.com/Alexander-Nasuta)
+Developers: [Zi Xuan(Melody) Tung](https://github.com/melody-tung), [Alexander Nasuta](https://github.com/Alexander-Nasuta)
 
 ## Features
 
