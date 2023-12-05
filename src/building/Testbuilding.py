@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import messagebox
 import flexfunc
 #%%
 #Update Gripper Choice according to Robot Mode
