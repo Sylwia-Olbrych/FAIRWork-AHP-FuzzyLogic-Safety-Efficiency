@@ -1,15 +1,12 @@
 # FAIRWork-AHP-and-FuzzyLogic
 Developers: [Zi Xuan(Melody) Tung](https://github.com/melody-tung), [Alexander Nasuta](https://github.com/Alexander-Nasuta), Sylwia Olbrych
 
-<<<<<<< HEAD
+
 ## About the project
 This project calculates efficiency and safety ratings for your workspace.
 Inputs such as robot mode, cycle time, layout, robot movement, gripper choice, space requirement, human traffic, automation skill of workers, safety requirements, and quantity are able to be customised. 
 
 ## Key Components
-=======
-Developers: [Zi Xuan(Melody) Tung](https://github.com/melody-tung), [Alexander Nasuta](https://github.com/Alexander-Nasuta)
->>>>>>> origin/main
 
 1. `flexfunc.py`: This Python module contains functions for calculating efficiency and safety. The efficiency calculation utilizes fuzzy logic, while the safety calculation involves a weighted sum approach. Here's a brief overview of the functions:
 
@@ -19,11 +16,6 @@ Developers: [Zi Xuan(Melody) Tung](https://github.com/melody-tung), [Alexander N
 
 2. `testbuilding.py`: This script serves as a user interface for inputting workspace parameters and obtaining efficiency and safety ratings. It utilizes the functions from `flexfunc.py` to perform the calculations. Users can interact with sliders to input values for various parameters, and the tool provides real-time feedback on efficiency and safety ratings.
 
-<<<<<<< HEAD
-=======
-- Python 3.11
-- tkinter library (usually included with Python)
->>>>>>> origin/main
 
 ## Usage
 
@@ -61,12 +53,10 @@ The tool will display the following ratings:<br />
 **Safety**: A safety rating based on the provided inputs.<br />
 
 ***
-<<<<<<< HEAD
+
 “This work has been supported by the FAIRWork project (www.fairwork-project.eu) and has been funded within the European Commission’s Horizon Europe Programme under contract number 101049499. This paper expresses the opinions of the authors and not necessarily those of the European Commission. The European Commission is not liable for any use that may be made of the information contained in this presentation.”
 
 This project provides a graphical user interface (GUI) tool to calculate safety and efficiency ratings for your workspace setup. It takes various input parameters related to your workspace configuration and provides a rating based on those inputs.
 
-=======
-“This work has been supported by the FAIRWork project (www.fairwork-project.eu) and has been funded within the European Commission’s Horizon Europe Programme under contract number 101049499. This paper expresses the opinions of the authors and not necessarily those of the European Commission. The European Commission is not liable for any use that may be made of the information contained in this presentation.”<br />
->>>>>>> origin/main
+
 Copyright © RWTH of FAIRWork Consortium
